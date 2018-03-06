@@ -1,7 +1,6 @@
 #!/usr/bin/python
 from flask import Flask
 from flask_ask import Ask, statement, question, session
-from textmagic.rest import TextmagicRestClient
 
 import json
 import requests
